@@ -19,7 +19,6 @@
     "tmp",
     "bower.json",
     "Gruntfile.js",
-    "package.json",
-    "psc*"
+    "package.json"
   ]
 }

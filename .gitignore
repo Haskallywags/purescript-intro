@@ -10,6 +10,3 @@ bower_components/
 output/
 .psci
 .psci_modules/
-
-# linked psc executables
-psc*

@@ -3,7 +3,6 @@
 
   "dependencies": {
     "grunt":                "*",
-    "purescript":           "*",
     "grunt-purescript":     "*"
   }
 }
